@@ -1,0 +1,69 @@
+﻿^contentpage {
+    background-color: black;
+}
+
+.PageBackgroundColor {
+    background-color: black;
+}
+
+#header {
+    font-size: 32;
+    font-weight: bolder;
+    color: black;
+}
+
+Button {
+    background-color: red;
+    color: white;
+    border-radius: 10;
+    border-style: solid;
+}
+#blue-button {
+    background-color: #499fd0;
+}
+#dark-blue-button {
+    background-color: #418ab3;
+}
+#gray-button {
+    background-color:#eeeeee;
+    color:black;
+}
+#dark-gray-button {
+    background-color: #e0e0e0;
+    color:black;
+}
+
+#white-button {
+    background-color: white;
+    border-radius:25;
+    border-width:1;
+    border-color:gray;
+    color: black;
+}
+#white-border-button {
+    background-color: #eeeeee;
+    border-radius: 25;
+    border-width: 1;
+    border-color: gray;
+    color: black;
+}
+
+label {
+    color: white;
+}
+
+.LabelTextColor {
+    color: black;
+}
+
+
+.EnrtyStyle {
+    font-size: 16;
+    background-color: white;
+}
+
+#stylefordroro {
+    font-size: 16;
+    background-color: white;
+    color: white;
+}
